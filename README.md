@@ -11,7 +11,7 @@
 
 ---
 
-### `> initializing_profile. sh` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### `> initializing_profile.sh` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ```bash
 [████████████████████████████████] 100% - Profile loaded successfully
@@ -26,7 +26,7 @@
 </div>
 
 | **Variable** | **Value** |
-|: ---:|:---:|
+|:---:|:---:|
 | `$EDUCATION` | 🎓 1337 School (42 Network) |
 | `$SPECIALIZATION` | 🔐 Cybersecurity & CTFs |
 | `$CURRENT_MODE` | ⚔️ Breaking & Building |
@@ -38,7 +38,7 @@
 
 ### `> ls -la /dev/skills` 💀
 
-<img src="https://skillicons.dev/icons? i=c,cpp,python,linux,bash,docker,git,github,vim,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,docker,git,github,vim,vscode&theme=dark" />
 
 </div>
 
@@ -129,7 +129,7 @@ connection established from github.com
 |____________________________________________________|
 ```
 
-<img src="https://capsule-render.vercel. app/api?type=waving&color=0:003300,100:00ff00&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=120&section=footer"/>
 
 </div>
 
