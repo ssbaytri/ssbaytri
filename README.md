@@ -1,13 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0: 00ff00,100:003300&height=200&section=header&text=ACCESS%20GRANTED&fontSize=50&fontColor=00ff00&animation=twinkling&fontAlignY=35&desc=Entering%20ssbaytri's%20Terminal&descAlignY=51&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=ACCESS%20GRANTED&fontSize=50&fontColor=00ff00&animation=twinkling&fontAlignY=35&desc=Entering%20ssbaytri's%20Terminal&descAlignY=51&descSize=20"/>
 
-```
-┌──(ssbaytri㉿1337)-[~/profile]
-└─$ cat identity.txt
-```
+### `┌──(ssbaytri㉿1337)-[~/profile]`
+### `└─$ cat identity.txt`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com? font=Fira+Code&pause=1000&color=00F700&background=000000&center=true&vCenter=true&random=false&width=435&lines=Software+Engineering+Student+%40+1337;42+Network+%7C+Cybersecurity+Enthusiast;CTF+Player+%7C+Flag+Hunter;Breaking+Things... +Legally+%F0%9F%94%90)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&background=000000&center=true&vCenter=true&random=false&width=435&lines=Software+Engineering+Student+%40+1337;42+Network+%7C+Cybersecurity+Enthusiast;CTF+Player+%7C+Flag+Hunter;Breaking+Things...+Legally+🔐" alt="Typing SVG" />
 
 </div>
 
@@ -40,7 +38,7 @@
 
 ### `> ls -la /dev/skills` 💀
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,docker,git,github,vim,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons? i=c,cpp,python,linux,bash,docker,git,github,vim,vscode&theme=dark" />
 
 </div>
 
@@ -65,7 +63,7 @@
 
 ---
 
-### `> cat current_missions. log` 📡
+### `> cat current_missions.log` 📡
 
 ```python
 #!/usr/bin/env python3
@@ -95,9 +93,9 @@ class Student_1337:
 
 ### `> sudo ./statistics.sh` 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api? username=ssbaytri&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=00ff00)
+<img src="https://github-readme-stats.vercel.app/api?username=ssbaytri&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=00ff00" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssbaytri&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ssbaytri&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak" />
 
 </div>
 
@@ -131,7 +129,7 @@ connection established from github.com
 |____________________________________________________|
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=120&section=footer"/>
+<img src="https://capsule-render.vercel. app/api?type=waving&color=0:003300,100:00ff00&height=120&section=footer"/>
 
 </div>
 
