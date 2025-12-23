@@ -35,8 +35,9 @@ class ssbaytri:
 ╚══════════════════════════════════════╝
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=ssbaytri&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00&include_all_commits=true&count_private=true&cache_seconds=1800" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssbaytri&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00&cache_seconds=1800" height="165">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssbaytri&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00&include_all_commits=true&count_private=true)](https://github.com/ssbaytri)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbaytri&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00)](https://github.com/ssbaytri)
 
 </div>
 
