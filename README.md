@@ -35,7 +35,7 @@ class ssbaytri:
 ╚══════════════════════════════════════╝
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssbaytri&theme=chartreuse-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssbaytri&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=00ff00&sideLabels=00ff00)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbaytri&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00)](https://github.com/ssbaytri)
 
