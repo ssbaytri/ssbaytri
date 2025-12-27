@@ -5,50 +5,64 @@
 </div>
 
 ```bash
-┌─[ssbaytri@1337]─[~/profile]
-└──╼ $ cat intro.txt
+root@ssbaytri:~# whoami
 ```
 
 <div align="center">
+  
+### Software Engineering Student @ 1337 • 42 Network
 
-**`Software Engineering Student`** @ 1337 • 42 Network  
-**`Low-Level Programming`** • **`Cybersecurity`** • **`CTF Player`**
-
-</div>
-
-```python
-class ssbaytri:
-    def __init__(self):
-        self.code = ["C", "C++", "Python"]
-        self.tools = ["Docker", "Git", "Bash", "Linux"]
-        self.mission = "break && secure"
-    
-    def status(self):
-        return "hunting_vulnerabilities"
-```
-
-<div align="center">
-
-```
-╔══════════════════════════════════════╗
-║   C/C++  |  Python  |  Cybersecurity  ║
-╚══════════════════════════════════════╝
-```
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ssbaytri&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbaytri&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00)](https://github.com/ssbaytri)
+**Low-Level Systems** · **Cybersecurity** · **CTF Player**
 
 </div>
 
 ```bash
-┌─[root@terminal]─[~]
-└──╼ $ echo "System.out.println('Code. Hack. Repeat.');"
+root@ssbaytri:~# cat /etc/skills.conf
 ```
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ssbaytri-00ff00?style=for-the-badge&logo=github&logoColor=00ff00&labelColor=000000)](https://github.com/ssbaytri)
-[![1337](https://img.shields.io/badge/1337-Network-00ff00?style=for-the-badge&logo=42&logoColor=00ff00&labelColor=000000)](https://1337.ma)
+```
+Languages    →  C • C++ • Python • Bash
+Tools        →  Docker • Git • Linux • GDB
+Focus        →  Binary Exploitation • System Security
+Status       →  [█████████░] Hunting Vulnerabilities...
+```
+
+</div>
+
+```bash
+root@ssbaytri:~# ./mission.sh
+```
+
+<div align="center">
+
+```c
+int main(void) {
+    while (1) {
+        break_things();
+        secure_systems();
+        learn_more();
+    }
+    return (0);
+}
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+root@ssbaytri:~# ls -la ~/connect/
+```
+
+**drwxr-xr-x** [GitHub](https://github.com/ssbaytri) • [1337 Network](https://1337.ma)
+
+```bash
+root@ssbaytri:~# exit
+> Connection closed.
+```
 
 </div>
