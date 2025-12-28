@@ -44,11 +44,9 @@ const student = {
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssbaytri&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00)
+![](https://nirzak-streak-stats.vercel.app/?user=ssbaytri&theme=dark&hide_border=false)&nbsp;&nbsp;
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbaytri&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00)](https://github.com/ssbaytri)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ssbaytri&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)](https://github.com/ssbaytri)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbaytri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
 
