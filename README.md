@@ -2,67 +2,48 @@
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWgyb3ZjcGxvNHlnZ3J1Z2tuaHRoajNwdXdrOW9vNmIyZWF0d2I0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%">
 
-</div>
+<br><br>
 
-```bash
-root@ssbaytri:~# whoami
+# ▸ ssbaytri
+
+**building • breaking • securing**
+
+<br>
+
+```ascii
+┌───────────────────────────────────────┐
+│  1337 School · 42 Network             │
+│  Software Engineering Student         │
+└───────────────────────────────────────┘
 ```
 
-<div align="center">
-  
-### Software Engineering Student @ 1337 • 42 Network
+<br>
 
-**Low-Level Systems** · **Cybersecurity** · **CTF Player**
+### ⚡ Current Focus
 
-</div>
+**Low-level programming** in C/C++  
+**Binary exploitation** & **reverse engineering**  
+**CTF competitions** & **vulnerability research**
 
-```bash
-root@ssbaytri:~# cat /etc/skills.conf
-```
+<br>
 
-<div align="center">
+### 🛠 Stack
 
-```
-Languages    →  C • C++ • Python • Bash
-Tools        →  Docker • Git • Linux • GDB
-Focus        →  Binary Exploitation • System Security
-Status       →  [█████████░] Hunting Vulnerabilities...
-```
+`C` `C++` `Python` `Bash` `Docker` `Linux` `GDB` `Git`
 
-</div>
-
-```bash
-root@ssbaytri:~# ./mission.sh
-```
-
-<div align="center">
-
-```c
-int main(void) {
-    while (1) {
-        break_things();
-        secure_systems();
-        learn_more();
-    }
-    return (0);
-}
-```
-
-</div>
+<br>
 
 ---
 
-<div align="center">
+<br>
 
-```bash
-root@ssbaytri:~# ls -la ~/connect/
+**[github.com/ssbaytri](https://github.com/ssbaytri)** × **[1337.ma](https://1337.ma)**
+
+<br>
+
 ```
-
-**drwxr-xr-x** [GitHub](https://github.com/ssbaytri) • [1337 Network](https://1337.ma)
-
-```bash
-root@ssbaytri:~# exit
-> Connection closed.
+> system initialized_
+> ready for exploitation_
 ```
 
 </div>
