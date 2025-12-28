@@ -45,7 +45,6 @@ const student = {
 ## 📊 GitHub Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ssbaytri&theme=dark&hide_border=false)&nbsp;&nbsp;
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbaytri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
