@@ -1,49 +1,29 @@
 <div align="center">
-
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWgyb3ZjcGxvNHlnZ3J1Z2tuaHRoajNwdXdrOW9vNmIyZWF0d2I0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%">
 
-<br><br>
+<br/>
 
-# ▸ ssbaytri
+> **Warning:** Unauthorized Access Detected.
+> <br/> User **ssbaytri** is currently online.
 
-**building • breaking • securing**
+<br/>
 
-<br>
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ff00)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00ff00)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00ff00)
 
-```ascii
-┌───────────────────────────────────────┐
-│  1337 School · 42 Network             │
-│  Software Engineering Student         │
-└───────────────────────────────────────┘
-```
+![Linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=00ff00)
+![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnu-bash&logoColor=00ff00)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=00ff00)
 
-<br>
+<br/>
 
-### ⚡ Current Focus
-
-**Low-level programming** in C/C++  
-**Binary exploitation** & **reverse engineering**  
-**CTF competitions** & **vulnerability research**
-
-<br>
-
-### 🛠 Stack
-
-`C` `C++` `Python` `Bash` `Docker` `Linux` `GDB` `Git`
-
-<br>
-
----
-
-<br>
-
-**[github.com/ssbaytri](https://github.com/ssbaytri)** × **[1337.ma](https://1337.ma)**
-
-<br>
-
-```
-> system initialized_
-> ready for exploitation_
+```bash
+┌─[ssbaytri@1337]─[~/CTF]
+└──╼ $ cat status.txt
+[+] Role: Software Engineering Student
+[+] Guild: 42 Network
+[+] Current Objective: Break && Secure
 ```
 
 </div>
