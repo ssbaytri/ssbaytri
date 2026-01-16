@@ -36,7 +36,6 @@ const student = {
 <br>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ssbaytri&theme=dark&hide_border=false)&nbsp;&nbsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssbaytri&show_icons=true&theme=gruvbox)
 <br>
 
 ---
