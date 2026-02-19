@@ -11,25 +11,7 @@
      ╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝
 ```
 
-```diff
-+ Software Engineering Student @ 1337 • 42 Network
-+ Cybersecurity Enthusiast • CTF Player • Blue Team Focused
-```
-
 </div>
-
-```javascript
-const student = {
-    school: "1337 School • 42 Network",
-    interests: ["Cybersecurity", "Low-Level Programming", "CTF Competitions"],
-    learning: {
-        languages: ["C", "C++", "Python", "Bash"],
-        tools: ["Docker", "Linux", "Git", "GDB"],
-        focus: "Defensive Security & System Protection"
-    },
-    mindset: "Learn. Secure. Improve."
-};
-```
 
 <div align="center">
 
