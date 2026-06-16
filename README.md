@@ -4,29 +4,20 @@
 
 <br>
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a2744&height=2&section=header)
-
-<br>
-
 ```
-  i write code. it rarely works. i push anyway.
+  ✦  somewhere between the stars and the terminal  ✦
 ```
 
-<br>
-
-![C](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat-square&labelColor=0d1117)
+<sub>student · builder · 1337 network</sub>
 
 <br>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=ssbaytri&bg_color=0d1117&color=1e3a5f&line=1e3a5f&point=4a6a9a&area=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbaytri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=3a4a6b&text_color=4a5a7a)
+![](https://nirzak-streak-stats.vercel.app/?user=ssbaytri&theme=dark&hide_border=true&background=0d1117&stroke=1e2a3a&ring=2a3a5a&fire=3a4a6b&currStreakLabel=3a4a6b&sideLabels=2a3a5a&dates=1e2a3a&currStreakNum=4a5a7a&sideNums=3a4a6b)
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/github.com/ssbaytri-0d1117?style=flat-square&logo=github&logoColor=4a6a9a)](https://github.com/ssbaytri)&nbsp;
-[![1337](https://img.shields.io/badge/1337.ma-0d1117?style=flat-square&logo=42&logoColor=4a6a9a)](https://1337.ma)
-
-<br>
-
-![](https://capsule-render.vercel.app/api?type=waving&color=1a2744,0d1117&height=80&section=footer)
+[![GitHub](https://img.shields.io/badge/github-ssbaytri-1e2a3a?style=flat-square&logo=github&logoColor=4a6a9a&labelColor=0d1117)](https://github.com/ssbaytri)&nbsp;
+[![1337](https://img.shields.io/badge/1337-network-1e2a3a?style=flat-square&logo=42&logoColor=4a6a9a&labelColor=0d1117)](https://1337.ma)
 
 </div>
