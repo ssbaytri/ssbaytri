@@ -12,8 +12,12 @@
 
 <br>
 
+![](https://capsule-render.vercel.app/api?type=waving&color=0d1b2a,0a0a0a&height=80&section=header&reversal=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbaytri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=3a4a6b&text_color=4a5a7a)
 ![](https://nirzak-streak-stats.vercel.app/?user=ssbaytri&theme=dark&hide_border=true&background=0d1117&stroke=1e2a3a&ring=2a3a5a&fire=3a4a6b&currStreakLabel=3a4a6b&sideLabels=2a3a5a&dates=1e2a3a&currStreakNum=4a5a7a&sideNums=3a4a6b)
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0d1b2a,0a0a0a&height=80&section=footer)
 
 <br>
 
