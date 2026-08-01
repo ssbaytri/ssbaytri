@@ -8,8 +8,12 @@
   ✦  somewhere between the stars and the terminal  ✦
 ```
 
-<sub>student · builder · 1337 network</sub>
-
+<br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/🎓-learner-0d1117?style=for-the-badge&labelColor=1e2a3a&color=0d1117">&nbsp;
+    <img src="https://img.shields.io/badge/🛠️-builder-0d1117?style=for-the-badge&labelColor=1e2a3a&color=0d1117">&nbsp;
+    <img src="https://img.shields.io/badge/🌐-1337_network-0d1117?style=for-the-badge&labelColor=1e2a3a&color=0d1117">
+  </p>
 <br>
 
 <p align="center">
